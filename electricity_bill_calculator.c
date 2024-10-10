@@ -42,8 +42,8 @@ if (bill<100)
 float amount=bill+surcharge;
 printf("The customer ID is %d\n",ID);
 printf("The customers name is %s\n",name);
-printf("The units consumed are %f\n",unitConsumed);
-printf("The charges per unit are %f\n",charges);
-printf("The total amount to pay is %f\n",amount);
+printf("The units consumed are %.2f\n",unitConsumed);
+printf("The charges per unit are %.2f\n",charges);
+printf("The total amount to pay is %.2f\n",amount);
     return 0;
 }

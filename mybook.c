@@ -35,7 +35,7 @@ int main() {
     scanf("%f", &userBook.price);
     printf("\nEntered Book Details:\n");
     printf("Title: %s", userBook.title);
-    printf("Author: %s", userBook.author)
+    printf("Author: %s", userBook.author);
     printf("Publication Year: %d\n", userBook.publicationYear);
     printf("ISBN: %s\n", userBook.ISBN);
     printf("Price: %.2f\n", userBook.price);

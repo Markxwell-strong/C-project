@@ -2,10 +2,8 @@
 /*Program should be used to determine annual net income
 Author: Mark Kibui
 Date 9/22/2024*/
-
 #include <stdio.h>
 int main() {
-
     char P;//This is the pesonal letter of every employee
     float T;//This is the tax paid by the employee anually
     float I;//This is the gross income that the employee recieve

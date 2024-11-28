@@ -1,9 +1,7 @@
 /*This is a program to illustrate 3D arrays which accepts user inputs
 Author: Mark Kibui
 Date of coding: 17/10/2024*/
-
 #include <stdio.h>
-
 int main() {
     int cube[2][2][2];
     printf("Enter 8 integers for a two by two by two cube:\n");
